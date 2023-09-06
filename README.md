@@ -1,1 +1,1 @@
-()[C:\New_folder\GIT]
+[](https://github.com/Yaroslav19961/Python/blob/other/py.jpg)
